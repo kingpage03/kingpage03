@@ -132,13 +132,11 @@ I'm continuously improving my skills and contributing to projects that create po
 <table>
   <tr>
     <td align="center" width="50%">
-      <img src="https://upload.wikimedia.org/wikipedia/en/1/13/Lyceum_of_the_Philippines_University_seal.png" width="60" /><br>
       <strong>Lyceum of the Philippines University – Cavite</strong><br>
       BS Computer Science<br>
       2022 – Present
     </td>
     <td align="center" width="50%">
-      <img src="https://upload.wikimedia.org/wikipedia/en/2/25/Emilio_Aguinaldo_College_logo.png" width="60" /><br>
       <strong>Emilio Aguinaldo College – Cavite</strong><br>
       Tech-Voc Livelihood Track<br>
       2020 – 2022
