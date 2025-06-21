@@ -21,7 +21,7 @@ I'm continuously improving my skills and contributing to projects that create po
 
 > *“I don’t just code — I build to understand, improve, and empower.”*
 
-
+---
 
 ### Tech Stack
 
@@ -37,7 +37,7 @@ I'm continuously improving my skills and contributing to projects that create po
     <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" width="40"/><br>NPM</td>
     <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40"/><br>Node.js</td>
     <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="40"/><br>MongoDB</td>
-    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain.svg" width="40"/><br>Laravel</td>
+    <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-original.svg" width="40"/><br>Laravel</td>
     <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="40"/><br>PHP</td>
   </tr>
   <tr>
@@ -45,7 +45,8 @@ I'm continuously improving my skills and contributing to projects that create po
     <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="40"/><br>Pandas</td>
     <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="40"/><br>NumPy</td>
     <td align="center">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v10/icons/scikitlearn.svg" width="40" style="filter: invert(57%) sepia(85%) saturate(506%) hue-rotate(358deg) brightness(92%) contrast(94%)"/><br>scikit-learn</td>
+      <img src="https://cdn.jsdelivr.net/npm/simple-icons@v10/icons/scikitlearn.svg" width="40" style="filter: invert(57%) sepia(85%) saturate(506%) hue-rotate(358deg) brightness(92%) contrast(94%)"/><br>scikit-learn
+    </td>
     <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40"/><br>HTML</td>
   </tr>
   <tr>
@@ -61,7 +62,6 @@ I'm continuously improving my skills and contributing to projects that create po
     <td align="center"><img src="https://jwt.io/img/pic_logo.svg" width="40"/><br>JWT</td>
   </tr>
 </table>
-
 
 ---
 
@@ -129,10 +129,22 @@ I'm continuously improving my skills and contributing to projects that create po
 
 ### Education
 
-| Institution | Program | Duration |
-|------------|---------|----------|
-| <img src="https://upload.wikimedia.org/wikipedia/en/1/13/Lyceum_of_the_Philippines_University_seal.png" width="40"/> **Lyceum of the Philippines University – Cavite** | BS Computer Science | 2022 – Present |
-| <img src="https://upload.wikimedia.org/wikipedia/en/2/25/Emilio_Aguinaldo_College_logo.png" width="40"/> **Emilio Aguinaldo College – Cavite** | Technical-Vocational Livelihood | 2020 – 2022 |
+<table>
+  <tr>
+    <td align="center" width="50%">
+      <img src="https://upload.wikimedia.org/wikipedia/en/1/13/Lyceum_of_the_Philippines_University_seal.png" width="60" /><br>
+      <strong>Lyceum of the Philippines University – Cavite</strong><br>
+      BS Computer Science<br>
+      2022 – Present
+    </td>
+    <td align="center" width="50%">
+      <img src="https://upload.wikimedia.org/wikipedia/en/2/25/Emilio_Aguinaldo_College_logo.png" width="60" /><br>
+      <strong>Emilio Aguinaldo College – Cavite</strong><br>
+      Tech-Voc Livelihood Track<br>
+      2020 – 2022
+    </td>
+  </tr>
+</table>
 
 ---
 
@@ -144,14 +156,16 @@ I'm continuously improving my skills and contributing to projects that create po
 | Networks and Communications | LPU | May 2025 |
 | Lean Six Sigma – White Belt | Six Sigma PH | June 2025 |
 | Python Essentials | Python Institute | June 2025 |
-| CyberSmart: Digital Safety | Rotary Center | April 2025 |
 
 ---
 
 ### Seminars
 
-- 🛡️ **Cybersecurity Awareness Seminar**  
+- <img src="https://img.icons8.com/color/32/shield.png" width="18"/> **Cybersecurity Awareness Seminar**  
   *Lyceum of the Philippines University – December 2023*
+
+- <img src="https://img.icons8.com/color/32/security-checked.png" width="18"/> **CyberSmart: Digital Safety**  
+  *Rotary Center – April 2025*
 
 ---
 
